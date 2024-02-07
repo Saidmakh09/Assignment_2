@@ -1,0 +1,24 @@
+Sorting algorithm - SelectionSort
+
+Sorted 100 elements in 0.2793624500000001 milliseconds (avg)
+Sorted 500 elements in 1.0391644500000001 milliseconds (avg)
+Sorted 1000 elements in 2.579747949999999 milliseconds (avg)
+Sorted 2000 elements in 4.484379250000001 milliseconds (avg)
+Sorted 5000 elements in 25.5246958 milliseconds (avg)
+Sorted 10000 elements in 74.81146874999999 milliseconds (avg)
+Sorted 20000 elements in 262.86282295 milliseconds (avg)
+Sorted 75000 elements in 3790.5779103999994 milliseconds (avg)
+Sorted 150000 elements in 15521.151912550005 milliseconds (avg)
+
+Sorting algorithm - ShellSort
+
+Sorted 100 elements in 0.06514794999999998 milliseconds (avg)
+Sorted 500 elements in 0.23869785000000002 milliseconds (avg)
+Sorted 1000 elements in 0.18896869999999993 milliseconds (avg)
+Sorted 2000 elements in 0.317998 milliseconds (avg)
+Sorted 5000 elements in 0.64348135 milliseconds (avg)
+Sorted 10000 elements in 1.3576771 milliseconds (avg)
+Sorted 20000 elements in 2.9757270999999994 milliseconds (avg)
+Sorted 75000 elements in 12.968779149999998 milliseconds (avg)
+Sorted 150000 elements in 29.5198958 milliseconds (avg)
+
